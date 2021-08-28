@@ -1,0 +1,31 @@
+body {
+  background-color: lightsteelblue;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+h1 {
+  color: darkslategray;
+}
+
+h3 {
+  color: darkslategray;
+}
+
+h4 {
+  color: darkslategray;
+}
+
+.TLM49{
+  border-radius: 10%;
+}
+
+.color:hover {
+  color: powderblue;
+  width: 15%;
+}
